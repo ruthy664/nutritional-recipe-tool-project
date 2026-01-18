@@ -1,0 +1,2 @@
+recipe_id,recipe_name,prep_time_minutes,categories_json,star_rating,calories,protein_g,carbs_g,fat_g,fiber_g,sodium_mg,instructions,ingredients_json,servings,source
+0,Chocolate Chip Cookies,20,"[""dessert"",""vegetarian""]",6,,,,,,,Mix wet ingredients. Add in dry ingredients. Form into balls and bake at 350F for 12 minutes.,"{""margarine"":151,""white_sugar"":133,""brown_sugar"":147,""vanilla_extract"":5.6,""eggs"":67,""flour"":240,""baking_soda"":3.2,""baking_powder"":1.3,""salt"":4,""chocolate_chips"":227}",4,user

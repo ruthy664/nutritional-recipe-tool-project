@@ -1,0 +1,18 @@
+Dataset Information
+
+recipe_id: id of the recipe
+recipe_name: name of recipe
+prep_time_minutes: time to prepare in minutes
+categories_json: categories of the recipe as a json. ["category","categorey",...]. can be 
+Categories_json: breakfast, lunch, dinner, meal(could be breakfast or dinner), dessert, snack, meat, dairy, vegetarian, vegan
+star_rating: 1-5 if from a website or dataset, 6 if given by user. 
+calories: calories per serving; nutrient_id: 1008
+protein_g: protein in grams per serving; nutrient_id: 1003
+carbs_g: carbs in grams per serving; nutrient_id: 1005
+fat_g: fat in grams per serving; nutrient_id: 1004
+fiber_g: fiber in grams per serving; nutrient_id: 1079
+sodium_mg: sodium in miligrams per serving; nutrient_id: 1093 
+instructions: instructions for recipe. 
+ingredients_json: ingredients as a json file. ["ingredient":amount in grams, ....]
+servings: must be 4
+source: either user or url to websitem 
